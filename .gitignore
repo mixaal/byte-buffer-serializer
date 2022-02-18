@@ -1,0 +1,8 @@
+**/.idea/
+**.iml
+**/target/
+**dependency-reduced-pom.xml
+tests/query-exec-id
+tests/response-submitQuery.txt
+**/derby.log
+
